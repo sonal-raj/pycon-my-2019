@@ -6,7 +6,7 @@ Repo for presentation and demo code samples for talk at PyCon Malaysia 2019, Kua
 
 # Slides 
 
-See the slides for the talk [HERE](https://www.slideshare.net/sonal-raj/) or download from this repository.
+See the slides for the talk [HERE](https://www.slideshare.net/sonal-raj/internet-of-things-with-python-serverless-pycon-my-2019-kuala-lumpur-malaysia) or download from this repository.
 
 # Code templates
 This repository contains some of the code templates used in my talk at PyCon Malaysia 2019, Kuala Lumpur, Malaysia. 
