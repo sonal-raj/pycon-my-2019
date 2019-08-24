@@ -1,0 +1,80 @@
+{
+    "intents": [
+      {
+        "intent": "AMAZON.StopIntent"
+      },
+      {
+        "intent": "AMAZON.CancelIntent"
+        
+      },
+      {
+        "intent": "ListScenes",
+        "slots":[]
+      },
+      {
+        "intent": "ListGroups",
+        "slots":[]
+      },
+      {
+        "intent": "ListLights",
+        "slots":[]
+      },
+      {
+        "intent": "discoMode",
+        "slots":[]
+      },
+      {
+        "intent": "ControlLights",
+        "slots": [
+          {
+            "name": "Lights",
+            "type": "LIGHTS"
+          },
+          {
+            "name": "Brightness",
+            "type": "LEVEL"
+          },
+          {
+            "name": "Saturation",
+            "type": "LEVEL"
+          },
+          {
+            "name": "State",
+            "type": "STATE"
+          },
+                  {
+            "name": "Event",
+            "type": "AMAZON.LITERAL"
+          },
+          {
+            "name": "SaveScene",
+            "type": "AMAZON.LITERAL"
+          },
+          {
+            "name": "String",
+            "type": "AMAZON.LITERAL"
+          },
+          {
+            "name": "Color",
+            "type": "COLOR"
+          },
+          {
+            "name": "RelativeTime",
+            "type": "AMAZON.DURATION"
+          },
+          {
+            "name": "AbsoluteTime",
+            "type": "AMAZON.TIME"
+          },
+          {
+            "name": "Alert",
+            "type": "ALERT_TYPE"
+          },
+          {
+            "name": "Scene",
+            "type": "SCENE"
+          } 
+        ] 
+      }
+    ]
+  }

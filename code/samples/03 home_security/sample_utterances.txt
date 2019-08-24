@@ -1,0 +1,20 @@
+RecordingIntent Start Recording
+RecordingIntent Guard the fortress
+RecordingIntent The Game is on
+RecordingIntent See you later 
+RecordingIntent Shields up
+
+ClearRecording Clear all recordings
+ClearRecording Remove recordings from last week
+ClearRecording Free up some camera space
+ClearRecording Make space for new recordings
+
+ArchiveIntent Mail me the recordings 
+ArchiveIntent Let me review the latest recording 
+ArchiveIntent Send me the recordings
+
+StopIntent Stop recording
+StopIntent I am home
+StopIntent I am back
+StopIntent Turn the camera off
+StopIntent Turn off external inertial dampners 

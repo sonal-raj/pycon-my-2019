@@ -1,0 +1,26 @@
+{
+    "intents": [
+      {
+        "intent": "RecordingIntent",
+        "slots":[]
+      },
+      {
+        "intent": "ClearRecording",
+        "slots":[
+            {
+                "name": "pastdays",
+                "type": "AMAZON.INTEGER"
+            }
+        ]
+      },
+      {
+        "intent": "ArchiveIntent",
+        "slots":[]
+      },
+      {
+        "intent": "StopIntent",
+        "slots":[]
+      }
+    ]
+}
+        

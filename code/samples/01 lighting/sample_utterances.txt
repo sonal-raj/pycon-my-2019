@@ -1,0 +1,31 @@
+ListLights Which lights
+ListLights list all my lights
+ListLights what lights do i have
+ListLights do i have any lights
+ListLights tell me my lights
+
+DiscoMode start disco mode
+DiscoMode enable party mode
+DiscoMode let the party begin
+DiscoMode you ready to party 
+DiscoMode turn this place into a disco
+DiscoMode setup the dance floor
+DiscoMode I am in a mood for salsa
+
+ListGroups which groups
+ListGroups list all my groups 
+ListGroups what groups do i have 
+ListGroups do i have any groups 
+ListGroups list my groups 
+
+ListScenes which scenes
+ListScenes list all my scenes
+ListScenes what lights do i have 
+ListScenes do i have any lights 
+ListScenes list my scenes
+
+ControlLights change the brightness of {lights} to {brightness}
+ControlLights reduce brightness of {lights} to {brightness}
+ControlLights set {brightness} as the brightness of {lights}
+ControlLights dim the {lights} to {brightness}
+ControlLights bright the {lights} to (brightness)
